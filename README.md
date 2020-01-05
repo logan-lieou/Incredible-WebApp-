@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is live [here](https://logan-lieou.github.io/Incredible-WebApp-/) if you want to see what it does.
 
 ## Available Scripts
 
