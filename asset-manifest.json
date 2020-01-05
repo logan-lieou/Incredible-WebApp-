@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Incredible-WebApp-/static/js/main.6573ddbf.chunk.js",
+    "main.js.map": "/Incredible-WebApp-/static/js/main.6573ddbf.chunk.js.map",
+    "runtime-main.js": "/Incredible-WebApp-/static/js/runtime-main.daf02aa5.js",
+    "runtime-main.js.map": "/Incredible-WebApp-/static/js/runtime-main.daf02aa5.js.map",
+    "static/css/2.64a99b10.chunk.css": "/Incredible-WebApp-/static/css/2.64a99b10.chunk.css",
+    "static/js/2.530906e7.chunk.js": "/Incredible-WebApp-/static/js/2.530906e7.chunk.js",
+    "static/js/2.530906e7.chunk.js.map": "/Incredible-WebApp-/static/js/2.530906e7.chunk.js.map",
+    "index.html": "/Incredible-WebApp-/index.html",
+    "precache-manifest.53b2365638ba3e2fcbef75863dc8c953.js": "/Incredible-WebApp-/precache-manifest.53b2365638ba3e2fcbef75863dc8c953.js",
+    "service-worker.js": "/Incredible-WebApp-/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/Incredible-WebApp-/static/css/2.64a99b10.chunk.css.map",
+    "static/js/2.530906e7.chunk.js.LICENSE": "/Incredible-WebApp-/static/js/2.530906e7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daf02aa5.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.530906e7.chunk.js",
+    "static/js/main.6573ddbf.chunk.js"
+  ]
+}
